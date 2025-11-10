@@ -1,0 +1,49 @@
+[
+  {
+    "event_id": "E1003",
+    "event_type": "cancel",
+    "customer_id": "C11",
+    "event_timestamp": "2024-05-01T15:00:00Z",
+    "payment_method": "Credit Card",
+    "product_id": "P9186",
+    "product_category": "Electronics",
+    "amount": 0,
+    "location": "Bangalore",
+    "status": "Cancelled"
+  },
+  {
+    "event_id": "E1001",
+    "event_type": "cancel",
+    "customer_id": "C11",
+    "event_timestamp": "2024-05-20T17:00:00Z",
+    "payment_method": "Credit Card",
+    "product_category": "Groceries",
+    "amount": 0,
+    "location": "Kolkata",
+    "status": "Cancelled"
+  },
+  {
+    "event_id": "E1010",
+    "event_type": "purchase",
+    "customer_id": "C22",
+    "event_timestamp": "2024-06-15T10:30:00Z",
+    "payment_method": "UPI",
+    "product_id": "P5678",
+    "product_category": "Fashion",
+    "amount": 2500,
+    "location": "Mumbai",
+    "status": "Completed"
+  },
+  {
+    "event_id": "E1015",
+    "event_type": "return",
+    "customer_id": "C33",
+    "event_timestamp": "2024-07-02T14:00:00Z",
+    "payment_method": "Net Banking",
+    "product_id": "P4321",
+    "product_category": "Home Appliances",
+    "amount": 15000,
+    "location": "Delhi",
+    "status": "Returned"
+  }
+]
